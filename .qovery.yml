@@ -1,0 +1,11 @@
+---
+application:
+  name: "slash"
+  project: "randa"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-slash"
+  routes:
+  - application_name: "slash"
+    paths:
+    - "/*"
