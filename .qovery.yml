@@ -1,7 +1,7 @@
 ---
 application:
   name: "slash"
-  project: "randa"
+  project: "ran6"
   organization: "QoveryCommunity"
 routers:
 - name: "main-slash"
